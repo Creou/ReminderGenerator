@@ -6,6 +6,12 @@ Generates reminders on your google calendar and sets them to send SMS messages a
 
 ===
 
+Requires the GData .NET library for the Google Data API to build.
+
+http://code.google.com/p/google-gdata/downloads/list
+
+===
+
 This program is Copyright 2011 Simon P Stevens
 
 ===
